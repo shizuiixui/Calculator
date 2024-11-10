@@ -1,0 +1,359 @@
+.frame_rectangle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 602px;
+    height: 757px;
+    background-image: linear-gradient(to right, #FDCEDF, #DFCCFB);
+}
+.button0 {
+    position: relative;
+    top: 85%;
+    left: 5%;
+}
+.btntext0 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext0:hover{
+    background-color: #DFCCFB;
+}
+.button1 {
+    position: relative;
+    top: 63%;
+    left: 5%;
+}
+.btntext1 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext1:hover{
+    background-color: #DFCCFB;
+}
+.button4 {
+    position: relative;
+    top: 41%;
+    left: 5%;
+}
+.btntext4 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext4:hover{
+    background-color: #DFCCFB;
+}
+.button7 {
+    position: relative;
+    top: 19%;
+    left: 5%;
+}
+.btntext7 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext7:hover{
+    background-color: #DFCCFB;
+}
+.button_dot {
+    position: relative;
+    top: 52.2%;
+    left: 30%;
+}
+.btntext_dot {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+
+}
+.btntext_dot:hover{
+    background-color: #DFCCFB;
+}
+.button2 {
+    position: relative;
+    top: 30.2%;
+    left: 30%;
+}
+.btntext2 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+
+}
+.btntext2:hover{
+    background-color: #DFCCFB;
+}
+.button5 {
+    position: relative;
+    top: 8.2%;
+    left: 30%;
+}
+.btntext5 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+
+}
+.btntext5:hover{
+    background-color: #DFCCFB;
+}
+.button8 {
+    position: relative;
+    top: -13.8%;
+    left: 30%;
+}
+.btntext8 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+
+}
+.btntext8:hover{
+    background-color: #DFCCFB;
+}
+.button_plus {
+    position: relative;
+    top: 19.5%;
+    left: 55%;
+}
+.btntext_plus {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext_plus:hover{
+    background-color: #DFCCFB;
+}
+.button3 {
+    position: relative;
+    top: -2.6%;
+    left: 55%;
+}
+.btntext3 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext3:hover{
+    background-color: #DFCCFB;
+}
+.button6 {
+    position: relative;
+    top: -24.5%;
+    left: 55%;
+}
+.btntext6 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext6:hover{
+    background-color: #DFCCFB;
+}
+.button9 {
+    position: relative;
+    top: -46.6%;
+    left: 55%;
+}
+.btntext9 {
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext9:hover{
+    background-color: #DFCCFB;
+}
+.button_equals {
+    position: relative;
+    top: -13.2%;
+    left: 79%;
+}
+.btntext_equals{
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext_equals:hover{
+    background-color: #DFCCFB;
+}
+.button_minus {
+    position: relative;
+    top: -35.3%;
+    left: 79%;
+}
+.btntext_minus{
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext_minus:hover{
+    background-color: #DFCCFB;
+}
+.button_times {
+    position: relative;
+    top: -57.3%;
+    left: 79%;
+}
+.btntext_times{
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext_times:hover{
+    background-color: #DFCCFB;
+}
+.button_divide {
+    position: relative;
+    top: -79.3%;
+    left: 79%;
+}
+.btntext_divide{
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext_divide:hover{
+    background-color: #DFCCFB;
+}
+.button_clear {
+    position: relative;
+    top: -100.5%;
+    left: 79%;
+}
+.btntext_clear{
+height: 62px;
+width: 103px;
+color: black;
+background-color: white;
+border: none;
+font-size: 35px;
+transition: box-shadow 0.3s ease;
+cursor: pointer;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.btntext_clear:hover{
+    background-color: #DFCCFB;
+}
+.rectangle_screen {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 538px;
+    height: 128px;
+    background-color: white;
+}
+#value {
+    position: absolute;
+    margin: 0;
+    padding: 0 20px;
+    font-size: 50px;
+    color: black;
+    white-space: nowrap;
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    width: 100%;
+    text-align: right;
+    box-sizing: border-box; 
+    padding-top: 75px;
+}

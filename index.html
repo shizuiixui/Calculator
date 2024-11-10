@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Calculator</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="theme-color" content="#000000">
+        <link rel="stylesheet" href="styleframe.css">
+    </head>
+
+    <body>
+        <!-- Calculator layout section-->
+        <div class="frame_rectangle">
+            <!-- button0 -->
+            <div class="button0">
+                <button class="btntext0" onclick="increment0()">0</button>
+            </div>
+
+            <!-- button1 -->
+            <div class="button1">
+                <button class="btntext1" onclick="increment1()">1</button>
+            </div>
+
+            <!-- button4 -->
+            <div class="button4">
+                <button class="btntext4" onclick="increment4()">4</button>
+            </div>
+
+            <!-- button7 -->
+            <div class="button7">
+                <button class="btntext7" onclick="increment7()">7</button>
+            </div>
+
+            <!-- button_dot -->
+            <div class="button_dot">
+                <button class="btntext_dot" onclick="increment_dot()">.</button>
+            </div>
+
+            <!-- button2 -->
+            <div class="button2">
+                <button class="btntext2" onclick="increment2()">2</button>
+            </div>
+
+            <!-- button5 -->
+            <div class="button5">
+                <button class="btntext5" onclick="increment5()">5</button>
+            </div>
+
+            <!-- button8 -->
+            <div class="button8">
+                <button class="btntext8" onclick="increment8()">8</button>
+            </div>
+
+            <!-- button_plus -->
+            <div class="button_plus">
+                <button class="btntext_plus" onclick="increment_plus()">+</button>
+            </div>
+
+            <!-- button3 -->
+            <div class="button3">
+                <button class="btntext3" onclick="increment3()">3</button>
+            </div>
+
+            <!-- button6 -->
+            <div class="button6">
+                <button class="btntext6" onclick="increment6()">6</button>
+            </div>
+
+            <!-- button9 -->
+            <div class="button9">
+                <button class="btntext9" onclick="increment9()">9</button>
+            </div>
+
+            <!-- button_equals -->
+            <div class="button_equals">
+                <button class="btntext_equals" onclick="increment_equals()">=</button>
+            </div>
+
+            <!-- button_minus -->
+            <div class="button_minus">
+                <button class="btntext_minus" onclick="increment_minus()">-</button>
+            </div>
+
+            <!-- button_times -->
+            <div class="button_times">
+                <button class="btntext_times" onclick="increment_times()">X</button>
+            </div>
+
+            <!-- button_divide -->
+            <div class="button_divide">
+                <button class="btntext_divide" onclick="increment_divide()">÷</button>
+            </div>
+
+            <!-- button_clear -->
+            <div class="button_clear">
+                <button class="btntext_clear" onclick="increment_clear()">AC</button>
+            </div>
+        </div>
+
+        <!-- Display section -->
+        <div class="rectangle_screen">
+            <h2 id="value">0</h2>
+        </div>
+
+        <!-- JavaScript file -->
+        <script src="index.js"></script>
+    </body>
+</html>
